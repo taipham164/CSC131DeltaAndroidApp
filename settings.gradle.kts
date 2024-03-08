@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CSC131"
+rootProject.name = "CSC131 Delta Project"
 include(":app")
+ 
